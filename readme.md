@@ -20,3 +20,5 @@ To post-process the results into a dataframe:
 ```
 python3.11 results.py
 ```
+The dataframe is then saved to `benchmark/results.csv`. 
+Our version of this file is included with this repository.
